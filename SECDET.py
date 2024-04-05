@@ -1,1 +1,3 @@
-import OLD_enc
+os.system("git pull")
+print("SECDET IS HERE ")
+print(" TOOL IS UPDATING")
